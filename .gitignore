@@ -1,0 +1,12 @@
+# Keil generated build files
+MDK-ARM/servo/*.o
+MDK-ARM/servo/*.d
+MDK-ARM/servo/*.axf
+MDK-ARM/servo/*.hex
+MDK-ARM/servo/*.map
+MDK-ARM/servo/*.htm
+MDK-ARM/servo/*.lnp
+MDK-ARM/servo/*.dep
+
+# Keil user-specific files
+MDK-ARM/*.uvguix*
